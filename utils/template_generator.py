@@ -8,7 +8,8 @@ def generate_template():
         'Subject Number': [
             'AE21202/AE21002', 
             'AE29202/AE29002',
-            'AE20202/AE21008/AE60204'
+            'AE20202/AE21008',
+            'Anysubject'
         ],
         'Subject Name': [
             'Low Speed Aerodynamics', 
