@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><title>Batch-wise Timetable</title></head>
+<body>
+    <h1>Batch-wise Timetable Preview</h1>
+    {% for batch, html in batch_htmls.items() %}
+        <h2>{{ batch }} Year</h2>
+        <div style="margin-bottom: 40px;">{{ html|safe }}</div>
+    {% endfor %}
+</body>
+</html>
