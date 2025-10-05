@@ -1,10 +1,10 @@
 # Institute-Time-table-Generator
 
-
-!Python
-!Flask
-!Pandas
-!License
+https://shivamji.pythonanywhere.com/
+Python
+Flask
+Pandas
+License
 
 An intelligent timetable scheduling system that automates course allocation while respecting faculty availability, batch constraints, and room requirements.
 
