@@ -31,6 +31,13 @@ An intelligent timetable scheduling system that automates course allocation whil
 - Python 3.8+
 - pip package manager
 
+## How to use
+# 1. Click on Webpage Link
+# 2. Download Excel template
+# 3. Fill the template with courses and faculty of any department of IITKGP
+# 4. Click on generate
+# 5. Adjust according to any change you need
+
 ### Setup
 ```bash
 # Clone repository
@@ -43,10 +50,5 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 # Install dependencies
 pip install -r requirements.txt)
-## How to use
-# 1. Click on Webpage Link
-# 2. Download Excel template
-# 3. Fill the template with courses and faculty of any department of IITKGP
-# 4. Click on generate
-# 5. Adjust according to any change you need
+
 
