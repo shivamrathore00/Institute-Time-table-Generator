@@ -23,7 +23,7 @@ An intelligent timetable scheduling system that automates course allocation whil
 | Frontend       | HTML5, CSS3, JavaScript (Drag-and-Drop API) |
 | Backend        | Python 3.8+, Flask |
 | Data Processing| Pandas, NumPy |
-| Deployment     | Docker-ready, Heroku-compatible |
+| Deployment     | Python anywhere |
 
 ## Installation 🛠
 
