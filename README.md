@@ -32,11 +32,11 @@ An intelligent timetable scheduling system that automates course allocation whil
 - pip package manager
 
 ## How to use
-# 1. Click on Webpage Link
-# 2. Download Excel template
-# 3. Fill the template with courses and faculty of any department of IITKGP
-# 4. Click on generate
-# 5. Adjust according to any change you need
+-  Click on Webpage Link
+-  Download Excel template
+-  Fill the template with courses and faculty of any department of IITKGP
+-  Click on generate
+-  Adjust according to any change you need
 
 ### Setup
 ```bash
