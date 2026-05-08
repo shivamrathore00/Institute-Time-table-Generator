@@ -42,4 +42,11 @@ python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 # Install dependencies
-pip install -r requirements.txt) this was readme.md text
+pip install -r requirements.txt)
+## How to use
+# 1. Click on Webpage Link
+# 2. Download Excel template
+# 3. Fill the template with courses and faculty of any department of IITKGP
+# 4. Click on generate
+# 5. Adjust according to any change you need
+
