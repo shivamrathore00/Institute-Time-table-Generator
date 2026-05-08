@@ -36,7 +36,7 @@ An intelligent timetable scheduling system that automates course allocation whil
 -  Download Excel template
 -  Fill the template with courses and faculty of any department of IITKGP
 -  Click on generate
--  Adjust according to any change you need
+-  Adjust according to any change you need, drag and drop for any batches
 
 ### Setup
 ```bash
